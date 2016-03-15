@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HPoints</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to HPoints2</string>
+    <string name="submit">Submit</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="reset">Reset Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_email_address">enter your email address</string>
+    <string name="enter_name">enter your name</string>
+    <string name="enter_pass">enter your password</string>
+
+</resources>
